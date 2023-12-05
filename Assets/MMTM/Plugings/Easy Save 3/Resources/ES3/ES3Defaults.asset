@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b340139c9e4d054f904d8b452798652, type: 3}
+  m_Name: ES3Defaults
+  m_EditorClassIdentifier: 
+  settings:
+    _location: 0
+    path: SaveFile.es3
+    encryptionType: 0
+    compressionType: 0
+    encryptionPassword: password
+    directory: 0
+    format: 0
+    prettyPrint: 1
+    bufferSize: 2048
+    saveChildren: 1
+    typeChecking: 1
+    safeReflection: 1
+    memberReferenceMode: 0
+    referenceMode: 2
+    serializationDepthLimit: 64
+    assemblyNames:
+    - NaughtyAttributes.Editor
+    - Assembly-CSharp
+    - Febucci.TextAnimator.Editor
+    - spine-unity-examples
+    - NaughtyAttributes.Test
+    - UniTask
+    - PsdPlugin
+    - VContainer
+    - Febucci.TextAnimator.Runtime
+    - CW.Common
+    - PPv2URPConverters
+    - spine-unity
+    - Assembly-CSharp-firstpass
+    - UniTask.Linq
+    - spine-unity-editor
+    - LeanCommon
+    - VContainer.Editor
+    - AnimatorEvent.Editor
+    - NaughtyAttributes.Core
+    - Febucci.Attributes.Runtime
+    - spine-csharp
+    - LeanPool
+    - Febucci.TextAnimator.TMP.Runtime
+    - Febucci.TextAnimator.Demo.Runtime
+    - UniTask.TextMeshPro
+    - AnimatorEvent
+    - Febucci.Attributes.Editor
+    - Tests.Editor
+    - spine-unity-examples-editor
+    - VContainer.EnableCodeGen
+    - UniTask.Addressables
+    - UniTask.Editor
+    - AnimatorEvent.Example
+    - UniTask.DOTween
+    showAdvancedSettings: 0
+  addMgrToSceneAutomatically: 0
+  autoUpdateReferences: 1
+  addAllPrefabsToManager: 1
+  logDebugInfo: 0
+  logWarnings: 1
+  logErrors: 1

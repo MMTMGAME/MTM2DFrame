@@ -1,0 +1,12 @@
+IPicker
+IPickedAble
+
+
+IPosition
+
+
+IDataContainer<Key,Value,returnValue>
+
+IDataContainer<int,string>
+
+IDataSolot
